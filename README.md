@@ -7,3 +7,5 @@ Place the file in the same directory as these scripts
 `strip_excess.py`
 
 `build_database.py`
+
+Do what you want!
